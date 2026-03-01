@@ -1,0 +1,7 @@
+content_type,COUNT of id,AVERAGE of duration_minutes,AVERAGE of imdb_rating,SUM of production_budget,SUM of box_office_revenue,SUM of number_of_seasons,SUM of number_of_episodes
+Documentary,142,92.27,6.1,1578388844,9174752473,0,0
+Limited Series,54,61.41,6.2,600232377,3488990377,387,5473
+Movie,458,116.52,6.3,5090859793,29591807271,0,0
+Stand-up Comedy,119,78.46,6.1,1322734313,7688701016,0,0
+TV Series,267,50.77,6.4,2967815643,17251119086,1937,26965
+Grand Total,1040,89.11,6.3,11560030970,67195370223,2324,32438
